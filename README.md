@@ -74,11 +74,11 @@ The relationship one(and only one) actor to one or many film_actor.
 
 2. What does the blue diamond next to the "last_update" column on the "inventory" table represent?
 
-It is a bluye lined filled diamond which means that is is a NOT NULL simple attribute.
+It is a blue lined filled diamond which means that is is a NOT NULL simple attribute.
 
 3. How many foreign keys does the "payments" table have? How can you tell?
 
-The payments table has no foreign keys only a yellow primary key. I can tell because it only has one yellow key and I am looking at a chart on stackoverflow that tells me that yellow keys are just primary keys.
+The payments table has three foreign keys. I can tell because it only has one yellow key and I am looking at a chart on stackoverflow that tells me that filled and and unfilled red diamonds are foreign keys.
 
 ##### ER Diagram upload
 
